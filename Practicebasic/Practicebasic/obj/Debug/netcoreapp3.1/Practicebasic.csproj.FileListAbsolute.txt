@@ -1,0 +1,14 @@
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\bin\Debug\netcoreapp3.1\Practicebasic.exe
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\bin\Debug\netcoreapp3.1\Practicebasic.deps.json
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\bin\Debug\netcoreapp3.1\Practicebasic.runtimeconfig.json
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\bin\Debug\netcoreapp3.1\Practicebasic.runtimeconfig.dev.json
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\bin\Debug\netcoreapp3.1\Practicebasic.dll
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\bin\Debug\netcoreapp3.1\Practicebasic.pdb
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.csproj.AssemblyReference.cache
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.AssemblyInfoInputs.cache
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.AssemblyInfo.cs
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.dll
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.pdb
+D:\CAPGEMINI TRAINING\Practicebasic\Practicebasic\obj\Debug\netcoreapp3.1\Practicebasic.genruntimeconfig.cache
